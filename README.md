@@ -5,12 +5,12 @@
 </p>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohnishlandge)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohnishlandge&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohnishlandge&show_icons=true&theme=default)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohnishlandge&show_icons=true&theme=darkhub)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnishlandge&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnishlandge&layout=compact&theme=darkhub)
