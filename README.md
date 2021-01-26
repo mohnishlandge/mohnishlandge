@@ -9,8 +9,8 @@
 
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohnishlandge&show_icons=true&theme=darkhub)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohnishlandge&show_icons=true&theme=dark)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnishlandge&layout=compact&theme=darkhub)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnishlandge&layout=compact&theme=dark)
