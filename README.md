@@ -23,11 +23,12 @@
 <!-- icons with padding -->
 
 [1.1]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[2.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[3.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[4.1]: https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
+[5.1]: https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white
+[6.1]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+[7.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
 <!-- icons without padding -->
 
@@ -42,12 +43,13 @@
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+[1]: https://discord.gg/qN3XkuCCdh
+[2]: https://twitter.com/mohnish_landge
+[3]: https://www.linkedin.com/in/mohnishlandge/
+[4]: https://codepen.io/mohnishlandge
+[5]: https://dribbble.com/mohnishlandge
+[6]: https://www.youtube.com/channel/UC-TunMfFWjaEYm861_iRSPQ
+[6]: https://www.instagram.com/mohnish.landge/
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 </p>
