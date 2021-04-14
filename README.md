@@ -49,7 +49,7 @@
 [4]: https://codepen.io/mohnishlandge
 [5]: https://dribbble.com/mohnishlandge
 [6]: https://www.youtube.com/channel/UC-TunMfFWjaEYm861_iRSPQ
-[6]: https://www.instagram.com/mohnish.landge/
+[7]: https://www.instagram.com/mohnish.landge/
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 </p>
