@@ -4,6 +4,7 @@
   <h6 align="center">have fun & try not to break anything</h6>
 </p>
 <br>
+<p align='center'>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
@@ -49,15 +50,15 @@
 [6]: http://www.github.com/carlsednaoui
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
+</p>
 ![](https://komarev.com/ghpvc/?username=mohnishlandge&style=flat-square&color=lightgrey&label=PROFILE+VIEWS)
 
 
-<br align="center">
+<p align="center">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohnishlandge&show_icons=true&theme=dark)
 
-<br>
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnishlandge&layout=compact&theme=dark)
 
