@@ -35,7 +35,7 @@
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: https://discord.gg/qN3XkuCCdh
+[1]: https://discord.gg/4bPzaZAEGv
 [2]: https://twitter.com/mohnish_landge
 [3]: https://www.linkedin.com/in/mohnishlandge/
 [4]: https://codepen.io/mohnishlandge
