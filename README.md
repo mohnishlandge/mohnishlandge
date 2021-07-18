@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://cdn.dribbble.com/users/5969536/screenshots/16067199/media/2bc9b5a1b66f495e8f261bd77d284a34.gif">
+  <img align="center" src="portfolio.gif">
   <h5 align="center">Welcome to My GitHub</h5>
   <h6 align="center">have fun & try not to break anything</h6>
 </p>
