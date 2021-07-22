@@ -1,6 +1,6 @@
 <p align="center">
   <img align="center" src="portfolio.gif">
-  <br>
+  <br>  <br>
   [Mohnish Landge - Interactive Portfolio](https://mohnishlandge-interactive-portfolio.netlify.app)
   <h5 align="center">Welcome to My GitHub</h5>
   <h6 align="center">have fun & try not to break anything</h6>
