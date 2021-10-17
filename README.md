@@ -1,7 +1,8 @@
 <p align="center">
   <img align="center" src="portfolio.gif">
   <br>  <br>
-  [Mohnish Landge - Interactive Portfolio](https://mohnishlandge-interactive-portfolio.netlify.app)
+  <a href = "https://mohnishlandge-interactive-portfolio.netlify.app">Mohnish Landge - Interactive Portfolio</a>
+   
   <h5 align="center">Welcome to My GitHub</h5>
   <h6 align="center">have fun & try not to break anything</h6>
 </p>
