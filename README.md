@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="auto" src="https://github.com/mohnishlandge/cdn/blob/main/Frame%2015.png?raw=true">
+  <img align="center" width="100%" src="https://github.com/mohnishlandge/cdn/blob/main/Frame%2015.png?raw=true">
   <br>  <br>
   <a href = "https://mohnishlandge-interactive-portfolio.netlify.app">Mohnish Landge - Interactive Portfolio</a>
    
