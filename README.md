@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="portfolio.gif">
+  <img align="center" src="https://github.com/mohnishlandge/cdn/blob/main/CV_b%20(1)-1.png?raw=true">
   <br>  <br>
   <a href = "https://mohnishlandge-interactive-portfolio.netlify.app">Mohnish Landge - Interactive Portfolio</a>
    
